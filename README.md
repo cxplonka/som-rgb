@@ -1,6 +1,6 @@
 # som-rgb
 
-This project contains a java implementation of the Self Organizing Maps (SOM) algortihm, based on an 
+This project contains a java implementation of the Self Organizing Maps (SOM) algorithm, based on an 
 RGB color space. For more information on the RGB example refer to [ai-junkie.com](http://www.ai-junkie.com/ann/som/som1.html).
 
 The visualisation is done on an 2D Plane and an 3D RGB Cube based on a Java3D implementation.
