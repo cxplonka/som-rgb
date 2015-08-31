@@ -1,4 +1,7 @@
 apply plugin: 'java'
+apply plugin: 'application'
+
+mainClassName = "rgbcube.RGBCubeEntry"
 
 sourceSets {
     main {
@@ -12,5 +15,6 @@ sourceSets {
 }
 
 dependencies {
-    compile fileTree(dir: 'libraries/java3d', include: ['*.jar'])  
+    compile fileTree(dir: 'libraries/java3d', include: ['*.jar'])
+    compile fileTree(dir: 'libraries/jogl', include: ['*.jar'])
 }
