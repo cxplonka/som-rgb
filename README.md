@@ -5,6 +5,8 @@ RGB color space. For more information on the RGB example refer to [ai-junkie.com
 
 The visualisation is done on an 2D Plane and an 3D RGB Cube based on a Java3D implementation.
 
+![](https://github.com/cxplonka/som-rgb/blob/master/screenshot.png)
+
 ## SOM - Wikipedia
 
 A self-organizing map (SOM) or self-organizing feature map (SOFM) is a type of artificial neural network (ANN) 
