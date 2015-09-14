@@ -23,7 +23,8 @@ Kohonen map or network.
 
 ## Running
 
-    <some code stuff/>
+    // Build application with and run som-rgb.bat
+    gradle installDist
 
 ## License
 
